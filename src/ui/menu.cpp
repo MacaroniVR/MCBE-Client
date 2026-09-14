@@ -1,3 +1,4 @@
+#include <Windows.h>
 #include "menu.h"
 #include "../modules/module.h"
 #include "../modules/freecam.h"
